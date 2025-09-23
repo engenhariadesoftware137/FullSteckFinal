@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADA8BFD-9C10-4C4B-B9D7-684D10741CC2}|WebApi\\WebApi.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADA8BFD-9C10-4C4B-B9D7-684D10741CC2}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AADA8BFD-9C10-4C4B-B9D7-684D10741CC2}|WebApi\\WebApi.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\webapi\\controllers\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AADA8BFD-9C10-4C4B-B9D7-684D10741CC2}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\estudantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62650C81-37A2-403A-84A9-9BE8D7AC151F}|Dominio\\Dominio.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\dominio\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62650C81-37A2-403A-84A9-9BE8D7AC151F}|Dominio\\Dominio.csproj|solutionrelative:dominio\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\repositorio\\iestudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\iestudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\repositorio\\estudantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\estudantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|c:\\users\\univassouras\\source\\repos\\alunosolution\\repositorio\\estudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB17042-C0EE-40B4-B0D2-52D59C367F64}|Repositorio\\Repositorio.csproj|solutionrelative:repositorio\\estudanterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudanteController.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\WebApi\\Controllers\\EstudanteController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\EstudanteController.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\WebApi\\Controllers\\EstudanteController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\EstudanteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:18:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Dominio\\Estudante.cs",
+              "RelativeDocumentMoniker": "Dominio\\Estudante.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Dominio\\Estudante.cs",
+              "RelativeToolTip": "Dominio\\Estudante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:18:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudanteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\EstudanteDbContext.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EstudanteDbContext.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\EstudanteDbContext.cs",
+              "RelativeToolTip": "Repositorio\\EstudanteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:17:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEstudanteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\IEstudanteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IEstudanteRepositorio.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\IEstudanteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IEstudanteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:17:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudanteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\EstudanteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EstudanteRepositorio.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\Repositorio\\EstudanteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\EstudanteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:17:26.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIVASSOURAS\\source\\repos\\AlunoSolution\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T23:13:21.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
